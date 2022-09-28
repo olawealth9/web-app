@@ -104,7 +104,7 @@
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
 	      <url>http://54.147.135.98:8081/repository/cohort8-snapshot/</url>
-	    </snapshotRepository>
+	     </snapshotRepository>
 	    
 	</distributionManagement>
 	
