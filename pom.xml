@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://172.31.90.115:9000/</sonar.host.url>
-		<sonar.login>olawealth </sonar.login>
+		<sonar.login>olawealth</sonar.login>
 		<sonar.password>admin123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ACADA Learning Snapshot Nexus Repository </name>
+	      <name>ACADA Learning Snapshot Nexus Repository</name>
 	      <url>http://54.147.135.98:8081/repository/cohort8-snapshot/</url>
 	     </snapshotRepository>
 	    
