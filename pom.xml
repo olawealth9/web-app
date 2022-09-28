@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.85.41:8081/repository/new-project-release/</url>
+	      <url>http://54.147.135.98:8081/repository/cohort8-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.85.41:8081/repository/new-project-snapshot/</url>
+	      <url>http://54.147.135.98:8081/repository/cohort8-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
